@@ -1,0 +1,1 @@
+# wordpress-create-db-table
